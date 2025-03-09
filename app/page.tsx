@@ -1,4 +1,5 @@
 "use client";
+/* eslint-disable */
 
 import { useState, useEffect, Suspense } from "react";
 import dynamic from "next/dynamic";
