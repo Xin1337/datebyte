@@ -46,4 +46,4 @@ const HeartBackground = () => {
   )
 }
 
-export default HeartBackground 
+export default HeartBackground
